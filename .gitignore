@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if any)
+.env
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Do NOT ignore database if you want to deploy with pre-filled users
+# database/users.db
